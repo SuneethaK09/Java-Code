@@ -2,6 +2,8 @@ package classconcepts;
 
 public class User {
 
+	int i = 10;
+	
 	String name;
 	int age;
 	char gender;
